@@ -1,6 +1,6 @@
 ## HELLO! 😄
 My name is Osinachi and I am currently a college student. I am new to GitHub and still learning more about it.
- Want to offer me some advice? Reach out to me: IG/@ossyim
+ Want to offer me some advice? Reach out to me: IG/@ossy.im
 <!--
 **ossy-im/ossy-im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
